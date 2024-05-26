@@ -1,0 +1,2 @@
+print("zuka")
+print("tskovrebashvili")
